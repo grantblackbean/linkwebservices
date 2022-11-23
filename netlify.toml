@@ -1,0 +1,9 @@
+
+[build]
+  publish = "_site"
+  command = "bundle exec jekyll build"
+
+[[redirects]]
+  from = "/"
+  to = "https://blackbeanmarketing.com"
+  status = 301
