@@ -1,9 +1,4 @@
 
 [build]
   publish = "_site"
-  command = "bundle exec jekyll build"
-
-[[redirects]]
-  from = "https://rococo-elf-391cb1.netlify.app"
-  to = "https://blackbeanmarketing.com"
-  status = 301
+  command = "bundle exec jekyll build && cp _redirects _site/_redirects"
