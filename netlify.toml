@@ -2,9 +2,112 @@
 [build]
   publish = "_site"
   command = "bundle exec jekyll build"
-
 [[redirects]]
   from = "/pages/services"
   to = "https://blackbeanmarketing.com"
   status = 301
   force = true
+[[redirects]]
+  from = "/pages/contact-2/"
+  to = "https://blackbeanmarketing.com/contact"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/meet-the-team/"
+  to = "https://blackbeanmarketing.com/working-with-us"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/about/"
+  to = "https://blackbeanmarketing.com/pages/working-with-us"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/PLST.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/ORHL.html"
+  to = "https://blackbeanmarketing.com/working-with-us"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/domain_name_registration/domain_name_registration.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/b2b-web-design-agency"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/domain_name_registration/web_design/web_design.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/b2b-web-design-agency"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/domain_name_registration/web/graphic_design.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/ui-ux-consulting"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/domain_name_registration/web/graphic_design.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/ui-ux-consulting"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/domain_name_registration/web/development.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/b2b-web-design-agency"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/web_hosting/web_hosting.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/b2b-web-design-agency"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/web/web_marketing_advertising.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/b2b-marketing-strategy"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/web/web_marketing_advertising.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/b2b-marketing-strategy"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/ecommerce_online_stores/ecommerce_stores.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/b2b-web-design-agency"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/web/print_work.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/ui-ux-consulting"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/web/print_work.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/ui-ux-consulting"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/web/web_resources.html"
+  to = "https://blackbeanmarketing.com/insights"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/web/technical_support.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/ui-ux-consulting"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/web/web_resources.html"
+  to = "https://blackbeanmarketing.com/industrial-marketing-services/b2b-web-design-agency"
+  force = true
+  status = 301
+[[redirects]]
+  from = "/web_university"
+  to = "https://blackbeanmarketing.com/insights"
+  status = 301
+[[redirects]]
+  from = "/web/outsourcing.html"
+  to = "https://blackbeanmarketing.com/"
+  force = true
+  status = 301
